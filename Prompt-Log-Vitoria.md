@@ -87,8 +87,8 @@ Preserve todos os arquivos existentes e não descarte informações do README.
 Ao concluir, apresente um resumo dos requisitos definidos e aguarde o próximo prompt.
 
 
-**Objetivo:** transformar o contexto do iFoome Delivery em especificação de produto (PRD, regras de negócio e fluxos), no papel de Product Owner.
+**Objetivo:**  Estruturar a documentação base do MVP (requisitos funcionais do cardápio, pedidos e resumo diário, além de regras de negócio e fluxos) garantindo foco na simplicidade operacional para o Seu Raimundo.
 
-**Resultado da IA:** (com suas palavras: quais documentos gerou e o que sugeriu de mais complexo)
+**Resultado da IA:** A IA gerou os arquivos PRD.md, Regras-de-Negocio.md e Fluxos-do-Usuario.md, mas sugeriu login obrigatório para clientes e cálculo de frete por GPS, além de integrações de pagamento complexas que atrasariam o MVP.
 
-**Correção:** (o que você mudou: tirou login obrigatório e frete por GPS, manteve pedido sem cadastro e taxa fixa, ajustou o nome do produto)
+**Correção:** Reforcei a restrição de que o pedido deve ocorrer sem cadastro (apenas nome, telefone e endereço se for entrega) e simplifiquei a taxa de entrega para valor fixo ou retirada grátis, alinhando o escopo às funcionalidades essenciais (Must) do README.
